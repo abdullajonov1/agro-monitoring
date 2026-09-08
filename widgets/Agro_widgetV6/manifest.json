@@ -2,7 +2,7 @@
   "name": "Agro_widgetV6",
   "label": "Space Agro Monitoring V6",
   "type": "widget",
-  "version": "6.0.0",
+  "version": "6.0.1",
   "exbVersion": "1.16.0",
   "author": "abdullajonov1",
   "description": "Self-contained Space Agro Monitoring dashboard with embedded map, Localization, Region, Indicator, Pie, Graff, Bar and Popup panels.",

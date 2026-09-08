@@ -1,6 +1,12 @@
 # Agro Monitoring (EXB widget host)
 
-GitHub Pages host for ArcGIS Experience Builder custom widget **Agro_widgetV6**.
+Portal manifest URL (must stay under `/widgets/` so dynamic `chunks/` resolve):
 
-Portal manifest URL:
-https://abdullajonov1.github.io/agro-monitoring/Agro_widgetV6/manifest.json
+https://abdullajonov1.github.io/agro-monitoring/widgets/Agro_widgetV6/manifest.json
+
+Layout:
+```
+widgets/
+  Agro_widgetV6/
+  chunks/
+```
